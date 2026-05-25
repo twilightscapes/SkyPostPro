@@ -1,0 +1,26 @@
+{
+  "github": "twilightscapes",
+  "camera": "PhoneFall",
+  "bio": "SkyPost - tools for Bluesky",
+  "showDates": true,
+  "mastodon": "",
+  "author": "SkyPost",
+  "logo": {
+    "type": "text",
+    "image": "",
+    "text": ""
+  },
+  "enableSocial": true,
+  "navStyle": "float",
+  "instagram": "",
+  "location": "USA",
+  "title": "SkyPost",
+  "avatar": "/images/avatar.jpg",
+  "description": "A photography site on the Pirate Social network",
+  "cloudinary": {
+    "enabled": false,
+    "cloudName": "",
+    "apiKey": ""
+  },
+  "giphyKey": ""
+}
